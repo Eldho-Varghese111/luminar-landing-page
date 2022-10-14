@@ -1,0 +1,93 @@
+.color
+{
+    color: whitesmoke;
+    /* line-height: 50px;
+    font-weight: 700; */
+    text-align: left;
+   
+}
+
+.carousel-inner
+{
+    height: 600px;
+}
+
+img
+{
+    object-fit: contain;
+}
+
+.outer-box
+{
+    position: relative;
+}
+
+.inner-box
+{
+    position: absolute;
+    top: 200px;
+    left: 38%;
+    
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.color1
+{
+    position: absolute;
+    left: 9px;
+    margin-top: 50px;
+}
+
+.carousel-caption
+{
+    left: 38%;
+}
+
+.color-font
+{
+    font-size: 40px;
+    
+}
+
+.pp{
+    margin-bottom: 0;
+    margin: 0;
+}
+
+.modal-in
+{
+    outline: none;
+    border: none;
+    
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.in
+{
+    outline: none;
+    margin-bottom: 30px;
+}
+
+input
+{
+    border: none;
+}
+
+select option
+{
+    border: none;
+}
+
+#sl1 {
+    width: 470px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: rgba(0, 0, 0, 0);
+}
