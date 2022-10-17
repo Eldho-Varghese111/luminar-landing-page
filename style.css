@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap');
+
+
+
+
 .color
 {
     color: whitesmoke;
@@ -90,4 +95,17 @@ select option
     border-left: none;
     border-right: none;
     background: rgba(0, 0, 0, 0);
+}
+
+.hero-h1-color
+{
+    color: rgb(79 16 139);
+    font-weight: 500;
+}
+.hero-h3-color
+{
+    
+
+    color: rgb(137, 33, 137);
+    font-weight: 400;
 }
